@@ -14,7 +14,7 @@
 
 ## как поднять проект
 ```bash
-get clone https://github.com/salmamhammad/apitest.git
+git clone --branch docker_setup --single-branch https://github.com/salmamhammad/apitest 
 cd apitest
 cp .env.example .env
 composer install
