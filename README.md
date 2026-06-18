@@ -36,4 +36,4 @@ Server will run at: http://localhost:8000
 ## testing API
 
 postman collection
-
+apitest.postman_collection.json
