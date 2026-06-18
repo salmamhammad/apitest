@@ -31,3 +31,8 @@ Server will run at: http://127.0.0.1:8000
 - POST /api/links
 - GET /{code}
 - GET /api/links/{code}/stats
+
+
+## two branchs
+- main: laravel + sqlite
+- docker_setup : laravel +mysql+ docker
